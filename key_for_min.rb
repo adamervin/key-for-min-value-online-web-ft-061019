@@ -4,13 +4,8 @@
 def key_for_min_value(name_hash)
   val = 0
   ky = nil
-name_hash.each do |
-  if value < 2
-     name
-   else 
-     val
-
-
+name_hash.each do |key,value|
+  
 
 
 
