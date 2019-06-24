@@ -10,10 +10,6 @@ name_hash.each do |key,value|
     key = ky
   end
 end
+ky
 
 
-
-
-end
-end
-end
