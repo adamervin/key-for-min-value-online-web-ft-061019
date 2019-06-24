@@ -8,7 +8,9 @@ name_hash.each do |key,value|
   if val == 0 || value < val
     value = val
     key = ky
-    
+  end
+end
+
 
 
 
